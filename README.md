@@ -2,7 +2,8 @@ In this repository, I'll be pushing the solutions of the problems I solve. The l
 
 ### Easy
 
-1. Two Sums
-2. Roman to Integer
-3. Longest Common Prefix
+001. Two Sums
+009. Palindrome Number
+013. Roman to Integer
+014. Longest Common Prefix
 
