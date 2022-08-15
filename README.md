@@ -7,3 +7,4 @@ In this repository, I'll be pushing the solutions of the problems I solve. The l
 * 013 Roman to Integer
 * 014 Longest Common Prefix
 * 020 Valid Parentheses
+* 026 Remove Duplicates from Sorted Array
