@@ -13,3 +13,4 @@ In this repository, I'll be pushing the solutions of the problems I solve. The l
 * 070 Climbing Stairs
 * 088 Merged Sorted Array
 * 121 Best Time to Buy And Sell Sock
+* 125 Valid Palindrome
