@@ -9,7 +9,7 @@ public:
     }
 };
 
-///O(m+n) complexity
+///O(m+n) time complexity
 
 class Solution {
 public:
