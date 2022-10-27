@@ -12,3 +12,4 @@ In this repository, I'll be pushing the solutions of the problems I solve. The l
 * 069 Sqrt(x)
 * 070 Climbing Stairs
 * 088 Merged Sorted Array
+* 121 Best Time to Buy And Sell Sock
