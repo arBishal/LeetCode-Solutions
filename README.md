@@ -22,3 +22,4 @@ In this repository, I'll be pushing the solutions of the problems I solve. The l
 * 326 Power of Three
 * 344 Reverse String
 * 350 Intersection of Two Arrays II
+* 387 First Unique Character in a String
