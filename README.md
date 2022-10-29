@@ -23,3 +23,4 @@ In this repository, I'll be pushing the solutions of the problems I solve. The l
 * 344 Reverse String
 * 350 Intersection of Two Arrays II
 * 387 First Unique Character in a String
+* 412 Fizz Buzz
