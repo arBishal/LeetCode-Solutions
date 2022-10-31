@@ -17,6 +17,7 @@ In this repository, I'll be pushing the solutions of the problems I solve. The l
 * 136 Single Number
 * 169 Majority Element
 * 191 Number of 1 Bits
+* 202 Happy Number
 * 217 Contains Duplicate
 * 242 Valid Anagram
 * 326 Power of Three
