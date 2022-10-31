@@ -21,6 +21,7 @@ In this repository, I'll be pushing the solutions of the problems I solve. The l
 * 202 Happy Number
 * 217 Contains Duplicate
 * 242 Valid Anagram
+* 283 Move Zeroes
 * 326 Power of Three
 * 344 Reverse String
 * 350 Intersection of Two Arrays II
