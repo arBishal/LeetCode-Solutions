@@ -17,6 +17,7 @@ In this repository, I'll be pushing the solutions of the problems I solve. The l
 * 125 Valid Palindrome
 * 136 Single Number
 * 141 Liked List Cycle
+* 160 Intersection of Two Linked Lists
 * 169 Majority Element
 * 171 Excel Sheet Column Number
 * 191 Number of 1 Bits
