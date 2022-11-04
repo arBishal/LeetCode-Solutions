@@ -20,7 +20,7 @@ public:
     }
 };
 
-//solution 2
+//solution 2 using map
 
 class Solution {
 public:
