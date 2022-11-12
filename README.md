@@ -45,5 +45,6 @@ In this repository, I'll be pushing the solutions of the problems I solve. The l
 * 011 Container with Most Water
 * 019 Remove Nth Node from End of List
 * 028 Find the Index of the First Occurence in a String
+* 049 Group Anagrams
 * 237 Delete Node in a Linked List
 * 328 Odd Even Linked List
