@@ -18,6 +18,7 @@ In this repository, I'll be pushing the solutions of the problems I solve. The l
 * 094 Binary Tree Inorder Traversal
 * 101 Symmetric Tree
 * 104 Maximum Depth of Binary Tree
+* 108 Convert Sorted Array to Binary Search Tree
 * 118 Pascal's Triangle
 * 121 Best Time to Buy And Sell Sock
 * 125 Valid Palindrome
