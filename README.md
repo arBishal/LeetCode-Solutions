@@ -35,6 +35,7 @@ In this repository, I'll be pushing the solutions of the problems I solve. The l
 * 242 Valid Anagram
 * 283 Move Zeroes
 * 326 Power of Three
+* 338 Counting Bits
 * 344 Reverse String
 * 350 Intersection of Two Arrays II
 * 387 First Unique Character in a String
