@@ -27,6 +27,7 @@ In this repository, I'll be pushing the solutions of the problems I solve. The l
 * 160 Intersection of Two Linked Lists
 * 169 Majority Element
 * 171 Excel Sheet Column Number
+* 190 Reverse Bits
 * 191 Number of 1 Bits
 * 202 Happy Number
 * 206 Reverse Linked List
