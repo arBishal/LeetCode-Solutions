@@ -32,6 +32,7 @@ In this repository, I'll be pushing the solutions of the problems I solve. The l
 * 202 Happy Number
 * 206 Reverse Linked List
 * 217 Contains Duplicate
+* 226 Invert Binary Tree
 * 234 Palindrome Linked List
 * 242 Valid Anagram
 * 283 Move Zeroes
