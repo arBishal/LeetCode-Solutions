@@ -33,6 +33,7 @@ In this repository, I'll be pushing the solutions of the problems I solve. The l
 * 206 Reverse Linked List
 * 217 Contains Duplicate
 * 226 Invert Binary Tree
+* 232 Implement Queue Using Stack
 * 234 Palindrome Linked List
 * 242 Valid Anagram
 * 283 Move Zeroes
