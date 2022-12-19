@@ -1,3 +1,5 @@
+/// Using two queues
+
 class MyStack {
 public:
     
@@ -56,3 +58,4 @@ public:
  * int param_3 = obj->top();
  * bool param_4 = obj->empty();
  */
+

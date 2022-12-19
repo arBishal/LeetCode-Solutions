@@ -3,6 +3,7 @@ In this repository, I'll be pushing the solutions of the problems I solve. The l
 ### Easy
 
 * 001 Two Sums
+* 003 Longest Substring Without Repeating Character
 * 009 Palindrome Number
 * 013 Roman to Integer
 * 014 Longest Common Prefix
