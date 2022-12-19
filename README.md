@@ -3,7 +3,6 @@ In this repository, I'll be pushing the solutions of the problems I solve. The l
 ### Easy
 
 * 001 Two Sums
-* 003 Longest Substring Without Repeating Character
 * 009 Palindrome Number
 * 013 Roman to Integer
 * 014 Longest Common Prefix
@@ -49,6 +48,7 @@ In this repository, I'll be pushing the solutions of the problems I solve. The l
 
 ### Medium
 
+* 003 Longest Substring Without Repeating Character
 * 011 Container with Most Water
 * 019 Remove Nth Node from End of List
 * 028 Find the Index of the First Occurence in a String
