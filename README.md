@@ -48,6 +48,7 @@ In this repository, I'll be pushing the solutions of the problems I solve. The l
 
 ### Medium
 
+* 002 Add Two Numbers
 * 003 Longest Substring Without Repeating Character
 * 011 Container with Most Water
 * 019 Remove Nth Node from End of List
