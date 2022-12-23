@@ -1,4 +1,4 @@
-In this repository, I'll be pushing the solutions of the problems I solve. The list? Here you go-
+This repository contains solutions of the problems I solved in LeetCode. The list? Here you go-
 
 ### Easy
 
