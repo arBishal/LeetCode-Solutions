@@ -51,6 +51,7 @@ This repository contains solutions of the problems I solved in LeetCode. The lis
 * 002 Add Two Numbers
 * 003 Longest Substring Without Repeating Character
 * 011 Container with Most Water
+* 015 3Sum
 * 019 Remove Nth Node from End of List
 * 028 Find the Index of the First Occurence in a String
 * 049 Group Anagrams
