@@ -55,6 +55,7 @@ This repository contains solutions of the problems I solved in LeetCode. The lis
 * 019 Remove Nth Node from End of List
 * 028 Find the Index of the First Occurence in a String
 * 049 Group Anagrams
+* 053 Maximum Subarray
 * 237 Delete Node in a Linked List
 * 238 Product of Array Except Self
 * 328 Odd Even Linked List
