@@ -1,5 +1,10 @@
 This repository contains solutions of the problems I solved in LeetCode. The list? Here you go-
 
+### Problem Count: 57
+
+### Language
+* C++
+
 ### Easy
 
 * 001 Two Sums
