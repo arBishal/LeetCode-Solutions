@@ -9,6 +9,7 @@ This repository contains solutions of the problems I solved in LeetCode. The lis
 * 020 Valid Parentheses
 * 021 Merge Two Sorted Lists
 * 026 Remove Duplicates from Sorted Array
+* 027 Remove Element
 * 028 Implement strStr()
 * 035 Search Insert Position
 * 066 Plus One
