@@ -17,6 +17,7 @@ This repository contains solutions of the problems I solved in LeetCode. The lis
 * 027 Remove Element
 * 028 Implement strStr()
 * 035 Search Insert Position
+* 058 Length of Last Word
 * 066 Plus One
 * 069 Sqrt(x)
 * 070 Climbing Stairs
