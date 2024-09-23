@@ -37,6 +37,7 @@ This repository contains solutions of the problems I solved in LeetCode. The lis
 * 190 Reverse Bits
 * 191 Number of 1 Bits
 * 202 Happy Number
+* 205 Isomorphic Strings
 * 206 Reverse Linked List
 * 217 Contains Duplicate
 * 225 Implement Stack Using Queue 
