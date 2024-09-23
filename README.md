@@ -19,6 +19,7 @@ This repository contains solutions of the problems I solved in LeetCode. The lis
 * 035 Search Insert Position
 * 058 Length of Last Word
 * 066 Plus One
+* 067 Add Binary
 * 069 Sqrt(x)
 * 070 Climbing Stairs
 * 088 Merged Sorted Array
