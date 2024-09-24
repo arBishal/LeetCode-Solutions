@@ -47,6 +47,7 @@ This repository contains solutions of the problems I solved in LeetCode. The lis
 * 234 Palindrome Linked List
 * 242 Valid Anagram
 * 283 Move Zeroes
+* 290 Word Pattern
 * 326 Power of Three
 * 338 Counting Bits
 * 344 Reverse String
