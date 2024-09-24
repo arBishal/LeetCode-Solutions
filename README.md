@@ -52,6 +52,7 @@ This repository contains solutions of the problems I solved in LeetCode. The lis
 * 338 Counting Bits
 * 344 Reverse String
 * 350 Intersection of Two Arrays II
+* 383 Ransom Note
 * 387 First Unique Character in a String
 * 412 Fizz Buzz
 * 704 Binary Search
