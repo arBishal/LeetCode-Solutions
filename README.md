@@ -51,6 +51,7 @@ This repository contains solutions of the problems I solved in LeetCode. The lis
 * 326 Power of Three
 * 338 Counting Bits
 * 344 Reverse String
+* 345 Reverse Vowels of a String
 * 350 Intersection of Two Arrays II
 * 383 Ransom Note
 * 387 First Unique Character in a String
