@@ -1,6 +1,6 @@
 This repository contains solutions of the problems I solved in LeetCode. The list? Here you go-
 
-### Problem Count: 57
+### Problem Count: 63
 
 ### Language
 * C++
