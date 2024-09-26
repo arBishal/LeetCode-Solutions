@@ -55,6 +55,7 @@ This repository contains solutions of the problems I solved in LeetCode. The lis
 * 0350 Intersection of Two Arrays II
 * 0383 Ransom Note
 * 0387 First Unique Character in a String
+* 0392 Is Subsequence
 * 0412 Fizz Buzz
 * 0434 Number of Segments in a String
 * 0704 Binary Search
