@@ -1,6 +1,6 @@
 This repository contains solutions of the problems I solved in LeetCode. The list? Here you go-
 
-### Problem Count: 66
+### Problem Count: 67
 
 ### Language: C++
 
@@ -58,6 +58,7 @@ This repository contains solutions of the problems I solved in LeetCode. The lis
 * 0392 Is Subsequence
 * 0412 Fizz Buzz
 * 0434 Number of Segments in a String
+* 0459 Repeated Substring Pattern
 * 0680 Valid Palindrome II
 * 0704 Binary Search
 
