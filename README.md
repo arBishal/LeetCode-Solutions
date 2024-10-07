@@ -1,6 +1,6 @@
 This repository contains solutions of the problems I solved in LeetCode. The list? Here you go-
 
-### Problem Count: 67
+### Problem Count: 68
 
 ### Language: C++
 
@@ -77,3 +77,4 @@ This repository contains solutions of the problems I solved in LeetCode. The lis
 * 0328 Odd Even Linked List
 * 0347 Top K Frequent Elements
 * 0371 Sum of Two Integers
+* 0739 Daily Temperatures
