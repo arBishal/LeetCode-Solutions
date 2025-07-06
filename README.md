@@ -1,6 +1,6 @@
 This repository contains solutions of the problems I solved in LeetCode. The list? Here you go-
 
-### Problem Count: 72
+### Problem Count: 73
 
 ## Language: C++
 
@@ -87,3 +87,4 @@ This repository contains solutions of the problems I solved in LeetCode. The lis
 ### Easy
 
 * 2634 Filter Elements from Array
+* 2635 Apply Transform Over Each Element in Array
