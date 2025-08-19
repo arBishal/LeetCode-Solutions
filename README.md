@@ -90,5 +90,6 @@ This repository contains solutions of the problems I solved in LeetCode. The lis
 * 2626 Array Reduce Transformation
 * 2634 Filter Elements from Array
 * 2635 Apply Transform Over Each Element in Array
+* 2665 Counter II
 * 2667 Create Hello World Function
 * 2704 To Be Or Not To Be
